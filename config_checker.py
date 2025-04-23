@@ -1,4 +1,7 @@
+---
 
+### 🐍 `config_checker.py` (Main Script)
+```python
 from config_checks import firewall_check, password_policy_check, antivirus_check
 from utils.logger import log
 
